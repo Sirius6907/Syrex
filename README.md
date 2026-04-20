@@ -4,7 +4,7 @@
 
 ---
 
-### ⏱️ HR Scan (30-Second Summary)
+### **Summary**
 
 *   **Problem:** High latency and complexity when managing multiple, heterogeneous AI models (OpenAI, Anthropic, Local) in a single application.
 *   **The Value:** Syrex provides a unified, production-ready inference pipeline that abstracts model complexity into a single, Zod-validated API.
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Architectural Excellence (5-Minute Engineers' Deep Dive)
+### 🧠 Architectural Excellence 
 
 Syrex is architected as a **low-overhead middleware** between your application logic and the world's most powerful LLMs.
 
