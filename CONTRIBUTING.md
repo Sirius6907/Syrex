@@ -1,20 +1,15 @@
-# Contributing to this Project
+# Contributing to Syrex
 
-First off, thank you for considering contributing! Projects like this thrive on community feedback and code contributions.
+Thank you for your interest in Syrex!
 
-## 🚀 How to Contribute
+## How to Contribute
 
-1.  **Fork the Project**: Click the 'Fork' button at the top right of this page.
-2.  **Clone your Fork**: `git clone https://github.com/Sirius6907/Syrex.git`.
-3.  **Create a Branch**: `git checkout -b feature/amazing-feature`.
-4.  **Make Changes**: Implement your feature or fix.
-5.  **Commit**: Use descriptive commit messages.
-6.  **Push**: `git push origin feature/amazing-feature`.
-7.  **Open a Pull Request**: Explain your changes and why they are valuable.
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/amazing-feature`).
+3. Commit your changes (`git commit -m 'feat: Add some amazing feature'`).
+4. Push to the branch (`git push origin feature/amazing-feature`).
+5. Open a Pull Request.
 
-## 🛠️ Code Standards
-- Follow the existing code style (Prettier/ESLint configs where present).
-- Ensure all new features are documented in the README.
+## Environment Setup
 
-## 🐛 Reporting Bugs
-Use the GitHub Issues tab to report bugs. Provide as much detail as possible.
+Ensure you have the required environment variables set up in a `.env` file. See `.env.example` for details.
